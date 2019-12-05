@@ -18,20 +18,16 @@
   "img": "Aubrey_Anderson.jpg",
   "year": 2019
  },
- {"name": "New person",
-  "title": "Unknown",
-  "img": "Kenny_Yau.jpg",
+ {"name": "Sabrina Miller",
+  "title": "President",
+  "img": "sabrina_miller_prez.jpg",
   "year": 2019
  },
- {"name": "New person",
-  "title": "Unknown",
-  "img": "Kenny_Yau.jpg",
+ {"name": "Sophie Saunders",
+  "title": "Vice President",
+  "img": "sophie_saunders_vp.jpg",
   "year": 2019
  },
-  {"name": "New person",
-  "title": "Unknown",
-  "img": "Kenny_Yau.jpg",
-  "year": 2019
- }
+
  ]
 
