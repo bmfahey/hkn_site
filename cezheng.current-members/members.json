@@ -3,6 +3,16 @@
   "img": "Hwa_Chang.jpg",
   "year": ""
  },
+ {"name": "Sabrina Miller",
+  "title": "President",
+  "img": "sabrina_miller_prez.jpg",
+  "year": 2019
+ },
+ {"name": "Sophie Saunders",
+  "title": "Vice President",
+  "img": "sophie_saunders_vp.jpg",
+  "year": 2019
+ },
  {"name": "Kenny Yau",
   "title": "President",
   "img": "Kenny_Yau.jpg",
@@ -17,17 +27,6 @@
   "title": "",
   "img": "Aubrey_Anderson.jpg",
   "year": 2019
- },
- {"name": "Sabrina Miller",
-  "title": "President",
-  "img": "sabrina_miller_prez.jpg",
-  "year": 2019
- },
- {"name": "Sophie Saunders",
-  "title": "Vice President",
-  "img": "sophie_saunders_vp.jpg",
-  "year": 2019
- },
-
+ }
  ]
 
